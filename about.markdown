@@ -12,3 +12,5 @@ My main research interest are in general relativity, hydrodynamics and gravitati
 
 You can find some of my work at <a href="https://github.com/rcounsell"> 
 rcounsell</a> and my CV [here](/assets/CV.pdf).
+
+![My helpful screenshot](/assets/photo.jpg)
