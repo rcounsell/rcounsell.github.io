@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 A full list of my publications can be found on https://orcid.org/0000-0002-4532-7440
+
+List of publications:
